@@ -38,7 +38,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/srm-college-website.git
+git clone https://github.com/kartik4540/srm-college-website.git
 Navigate to the Project Directory:
 
 bash
