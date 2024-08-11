@@ -34,14 +34,7 @@ Minimal Content: The content is kept minimal and straightforward, making it easy
 Getting Started
 To view and work with the website locally:
 
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/kartik4540/srm-college-website.git
-Navigate to the Project Directory:
-
-bash
 Copy code
 cd srm-college-website
 Open the HTML Files:
